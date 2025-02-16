@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwatobiikuesan" alt="oluwatobiikuesan" /></a> </p>
 
-- 🌱 I’m currently learning **AngularJS, NextJS**
+- 🌱 I’m currently learning **Java (Springboot)**
 
 - 👨‍💻 All of my projects are available at [xdoodle.onrender.com](xdoodle.onrender.com)
 

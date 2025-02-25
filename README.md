@@ -1,11 +1,12 @@
 <h1 align="left">Hi 👋, I'm Oluwatobi Ikuesan</h1>
-<h3 align="left">A passionate Fullstack developer in the United Kingdom</h3>
+<h3 align="left">I am a software engineer, current studying at Brunel University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwatobiikuesan" alt="oluwatobiikuesan" /></a> </p>
 
 - 🌱 I’m currently learning **Java (Springboot)**
 
 - 👨‍💻 All of my projects are available at [xdoodle.onrender.com](xdoodle.onrender.com)
+-   View my AI integration here at [xdoodle.onrender.com/ai](xdoodle.onrender.com)
 
 - 📝 I regularly write articles on [https://x.com/xdoodlekid?s=21](https://x.com/xdoodlekid?s=21)
 
